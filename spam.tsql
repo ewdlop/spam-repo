@@ -1,0 +1,2 @@
+-- Similar to SQL, using T-SQL to select a constant string
+PRINT 'Hello, World!';
