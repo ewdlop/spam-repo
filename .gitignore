@@ -1,0 +1,13 @@
+# Compiled files
+*.class
+*.o
+*.exe
+spam
+HelloWorld
+*.out
+
+# Language-specific build artifacts
+target/
+*.hi
+*.dyn_hi
+*.dyn_o
